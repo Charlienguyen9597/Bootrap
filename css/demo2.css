@@ -1,0 +1,28 @@
+.navbar-brand img{
+	max-width: 50%
+}
+.navbar{
+	border-bottom:4px solid #009A9A;
+}
+.carousel-indicators li{
+	width:20px;
+	height:20px;
+	border-radius: 50%;
+	
+}
+.tab-menu .nav{
+	flex-wrap: nowrap;
+}
+.tab-menu .nav-link img{
+	width:120px;
+	display: block;
+}
+.nav-tabs{
+	border:0;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+	border:none;
+}
+h5{
+	cursor: pointer;
+}
